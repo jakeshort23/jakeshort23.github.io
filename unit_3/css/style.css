@@ -1,0 +1,34 @@
+body {
+	background-color: #888888;
+}
+h1 {
+	color: #006600;
+	font-family: "Ar Bonnie", sans-serif;
+	font-size: 60px;
+	font-weight: 600;
+	text-align: center;
+	text-decoration: underline;
+}
+p {
+	color: #006600;
+	font-family: "HelveticaNeueLT Std Lt Cn", sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	text-align: center;
+}
+ul {
+	text-align: left;
+}
+li {
+	color: #006600;
+	font-family: "HelveticaNeueLT Std Lt Cn", sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	text-align: left;	
+}
+img {
+
+}
+#slogan {
+	font-style: italic;
+}
