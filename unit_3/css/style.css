@@ -1,33 +1,31 @@
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
 	background-color: #888888;
+	color: #006600;
+	font-family: "HelveticaNeueLT Std Lt Cn", sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	text-align: center;
 }
 h1 {
-	color: #006600;
 	font-family: "Ar Bonnie", sans-serif;
-	font-size: 60px;
+	font-size: 3em;
 	font-weight: 600;
-	text-align: center;
-	text-decoration: underline;
 }
 p {
-	color: #006600;
-	font-family: "HelveticaNeueLT Std Lt Cn", sans-serif;
-	font-size: 20px;
-	font-weight: 400;
-	text-align: center;
+	margin-top:1em;
 }
-ul {
+nav a {
+	color: inherit;
 	text-align: left;
+	text-decoration:none;
 }
-li {
-	color: #006600;
-	font-family: "HelveticaNeueLT Std Lt Cn", sans-serif;
-	font-size: 20px;
-	font-weight: 400;
-	text-align: left;	
-}
-img {
 
+#splash {
+	background:url(../images/hero_1_edited1.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:80vh;
 }
 #slogan {
 	font-style: italic;
